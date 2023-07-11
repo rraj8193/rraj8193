@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/tarve_rishav" target="blank"><img src="https://img.shields.io/twitter/follow/tarve_rishav?logo=twitter&style=for-the-badge" alt="tarve_rishav" /></a> </p>
 
-- 🔭 I’m currently working on **MYSQL project**
+- 🔭 I’m currently working on **Spring Boot Project**
 
-- 🌱 I’m currently learning **JSP & Servlets, Hibernate, Spring and Spring Boot**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Java, MySQL**
+- 💬 Ask me about **Java, MySQL,JSP & Servlets, Hibernate, Spring and Spring Boot**
 
 - 📫 How to reach me **rraj8193@gmail.com**
 
@@ -23,11 +23,11 @@
 <a href="https://twitter.com/tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarve_rishav" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rishav-raj-02053a1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-raj-02053a1b5" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarve_rishav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tarve_rishav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/rraj8193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rraj8193" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://medium.com/@tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tarve_rishav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp; -->
+<!-- <a href="https://www.codechef.com/users/rraj8193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rraj8193" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.hackerrank.com/tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarve_rishav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarve_rishav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tarve_rishav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://auth.geeksforgeeks.org/user/tarve_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tarve_rishav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp; -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
